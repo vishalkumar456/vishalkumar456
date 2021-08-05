@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vishalkumar456
+- 👋 Hi, I’m @vishalkumar
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web development
+- 🌱 I’m Web developer
 
-- 📫 How to reach me linkedin-
+- 📫 How to reach me linkedin-https://www.linkedin.com/in/vishal-kumar-a59b80197/
 
 <!---
 vishalkumar456/vishalkumar456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
