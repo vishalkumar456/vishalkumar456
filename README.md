@@ -1,9 +1,22 @@
+
+### Hola, I'm Vishal Kumar!👋
+    🔭 I’m currently working on Aptech.
+    🌱 I’m currently learning  about React-JS.
+    💬 Ask me about PHP or any tech-related stuff.
+    📫 How to reach me: Linkdin - @Vishalkumar , Portfolio - @meetVishalKumar
+    😄 Pronouns: He/His
+    ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+<!---
+👯 I’m looking to collaborate on Youtube. 
+    🤔 I’m looking for help with VelocityX documentation.
+old
 - 👋 Hi, I’m @vishalkumar
 - 👀 I’m interested in Web development
 - 🌱 I’m Web developer
 
 - 📫 How to reach me linkedin-https://www.linkedin.com/in/vishal-kumar-a59b80197/
-
+--->
 <!---
 vishalkumar456/vishalkumar456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
