@@ -1,6 +1,6 @@
 
 ### Hola, I'm Vishal Kumar!👋
-🔭 I’m currently working on @Aptech.
+    🔭 I’m currently working on @Aptech.
     🌱 I’m currently learning  about React-JS.
     💬 Ask me about PHP or any tech-related stuff.
     😄 Pronouns: He/His
