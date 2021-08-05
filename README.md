@@ -1,14 +1,14 @@
 
 ### Hola, I'm Vishal Kumar!👋
-    🔭 I’m currently working on [Aptech](https://aptech-education.com.pk/).
+🔭 I’m currently working on @Aptech.
     🌱 I’m currently learning  about React-JS.
     💬 Ask me about PHP or any tech-related stuff.
-    📫 How to reach me: [LinkedIn - @Vishal_Kumar](https://www.linkedin.com/in/vishal-kumar-a59b80197/)[@Meet Vishal Kumar](https://meet-vishal-kumar.netlify.app/)
-
     😄 Pronouns: He/His
     ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 <!---
+📫 How to reach me: [LinkedIn - @Vishal_Kumar](https://www.linkedin.com/in/vishal-kumar-a59b80197/)[@Meet Vishal Kumar](https://meet-vishal-kumar.netlify.app/)
+[Aptech](https://aptech-education.com.pk/)
 👯 I’m looking to collaborate on Youtube. 
     🤔 I’m looking for help with VelocityX documentation.
 old
